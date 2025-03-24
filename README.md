@@ -1,5 +1,5 @@
 # CS255
-SNHU class CS255 - Sys Analysis + Design
+CS255 - Sys Analysis + Design
 
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
